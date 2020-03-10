@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Connectivity</string>
+    <string name="signal_strength_label">Signal Strength:</string>
+    <string name="signal_strength_units">dB</string>
+    <string name="has_internet_label">Has Internet:</string>
+    <string name="has_internet_no">Has Internet: No</string>
+    <string name="has_internet_yes">Has Internet: Yes</string>
+    <string name="transports_label">Transports:</string>
+    <string name="speed_kbps">%d Kbps</string>
+    <string name="speed_mbps">%.2f Mbps</string>
+    <string name="speed_gbps">%.2f Gbps</string>
+    <string name="no_connection">No Connection</string>
+</resources>
