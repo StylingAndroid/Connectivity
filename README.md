@@ -1,1 +1,1 @@
-Bandwidth
+Connectivity
